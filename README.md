@@ -8,6 +8,8 @@ IF you want me to continue improving TheRat, THEN send me an e-mail that you are
 # TheRat (The Repository Archive Tool) Exposed
 This makes puplic some of the components necessary to interface TheRat to other tools. 
 
+The WIKI for this repository has a **TheRat** structure proposed definition. Theory is different from reality.
+
 ## Clarion
 ...
 
