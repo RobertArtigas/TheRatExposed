@@ -16,4 +16,11 @@ The [**WIKI**](https://github.com/RobertArtigas/TheRatExposed/wiki) for this rep
 ## Other
 ...
 
-[Main](https://github.com/RobertArtigas)
+
+
+[Code](https://github.com/RobertArtigas/TheRatExposed) 
+[Wiki](https://github.com/RobertArtigas/TheRatExposed/wiki) 
+[Main](https://github.com/RobertArtigas) 
+[Repositories](https://github.com/RobertArtigas?tab=repositories)
+
+
