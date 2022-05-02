@@ -18,10 +18,10 @@ The [**WIKI**](https://github.com/RobertArtigas/TheRatExposed/wiki) for this rep
 
 ##
 
-**Let us, then, look carefully into the matter. 
-It is likely that some troubles will befall us; but it is not a present fact. 
-How often has the unexpected happened! How often has the expected never come to pass! 
-And even though it is ordained to be, what does it avail to run out to meet your suffering?
+**Let us, then, look carefully into the matter. <br/>
+It is likely that some troubles will befall us; but it is not a present fact. <br/> 
+How often has the unexpected happened! How often has the expected never come to pass! <br/>
+And even though it is ordained to be, what does it avail to run out to meet your suffering? <br/>
 You will suffer soon enough, when it arrives; so look forward meanwhile to better things** <br/>
 _- Seneca_
 <br/><br/>
