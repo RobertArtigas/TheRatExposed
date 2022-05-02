@@ -18,18 +18,18 @@ The [**WIKI**](https://github.com/RobertArtigas/TheRatExposed/wiki) for this rep
 
 ##
 
-“Let us, then, look carefully into the matter. 
+**Let us, then, look carefully into the matter. 
 It is likely that some troubles will befall us; but it is not a present fact. 
 How often has the unexpected happened! How often has the expected never come to pass! 
 And even though it is ordained to be, what does it avail to run out to meet your suffering?
-You will suffer soon enough, when it arrives; so look forward meanwhile to better things” <br/>
+You will suffer soon enough, when it arrives; so look forward meanwhile to better things** <br/>
 _- Seneca_
-<br/>
+<br/><br/>
 If you would have maintained a ledger, and had written down your fears and anxieties with the possible outcomes of it, 
 you would have found out that, most of your fears and anxieties were nothing but exageration of a possible 
 future events judged by you, that never came to fruition, and at the same time most of the things you expected 
 to go your way, the way you believed would happen, never happened either.
-<br/>
+<br/><br/>
 But we never pay attention to it, and are always living the life based on future possible outcome, 
 suffering the disease yet to make us sick, 
 wielding the sword for the wrong battle and thereby overlooking what’s needs to be done right now, 
