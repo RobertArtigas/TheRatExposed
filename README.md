@@ -23,7 +23,7 @@ It is likely that some troubles will befall us; but it is not a present fact. <b
 How often has the unexpected happened! How often has the expected never come to pass! <br/>
 And even though it is ordained to be, what does it avail to run out to meet your suffering? <br/>
 You will suffer soon enough, when it arrives; so look forward meanwhile to better things** <br/>
-_- Seneca_
+_- Lucius Annaeus Seneca the Younger_
 <br/><br/>
 If you would have maintained a ledger, and had written down your fears and anxieties with the possible outcomes of it, 
 you would have found out that, most of your fears and anxieties were nothing but exageration of a possible 
